@@ -1,8 +1,8 @@
 cask "zenvoice" do
-  version "1.5.6"
-  sha256 "65c8f87c8e6c4e37ebeb8b45e689e9893bf95a3c8fc6a4f32f2ad5e01b006e9e"
+  version "1.5.7"
+  sha256 "f4771ba9b386412c08d694678019d842f3b1bb5fd38c151ae52422f5722225c0"
 
-  url "https://getzenvoice.com/download/ZenVoice-1.5.6-32.dmg"
+  url "https://getzenvoice.com/download/ZenVoice-1.5.7-33.dmg"
   name "ZenVoice"
   desc "Offline dictation with local speech models"
   homepage "https://getzenvoice.com"
